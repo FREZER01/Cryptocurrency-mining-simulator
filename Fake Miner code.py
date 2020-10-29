@@ -58,7 +58,7 @@ time.sleep(3)
 
 print("Настроки завершены")
 time.sleep(3)
-start = input("Чтобы приступить к добыче FiveCoin, введите команду /start ")
+start = input("Чтобы приступить к добыче FakeCoin, введите команду /start ")
 
 if start == "/start":
 	print(Fore.GREEN + u)
